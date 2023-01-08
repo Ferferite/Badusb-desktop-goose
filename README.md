@@ -1,5 +1,5 @@
 # Badusb-desktop-goose
-Script for a badusb that will download and run a desktop goose every 60 seconds
+Script for a badusb that will download and run a desktop goose every 60 seconds. To stop the spawining of the geese you have to restart your computer. You can also hold down ESC to evict the geese(the will come back)
 
 Credit for the desktop goose goes to [Sam Chiet](twitter.com/samnchiet)
 
